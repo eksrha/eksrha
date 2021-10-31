@@ -4,7 +4,7 @@ Hi, I'm Eike, a passionate self-taught Full Stack web developer and DevOps Engin
 
 - 🔭 I’m currently working on [my awesome-ci project](https://github.com/eksrvb/awesome-ci)
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: comming soon ;)
+- 📫 How to reach me: eksrha@e-netsupport.de
 
 **Languages and Tools:**  
 
