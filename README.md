@@ -2,7 +2,7 @@
 
 Hi, I'm Eike, a passionate self-taught Full Stack web developer and DevOps Engineer from Germany.
 
-- 🔭 I’m currently working on [my awesome-ci project](https://github.com/eksrvb/awesome-ci)
+- 🔭 I’m currently working on the [organisation fsops](https://github.com/fullstack-devops)
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: eksrha@e-netsupport.de
 
