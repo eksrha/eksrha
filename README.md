@@ -5,7 +5,7 @@ Hi, I'm Eike, a passionate self-taught Full Stack web developer and DevOps Engin
 - 🔭 I’m currently working on the [organisation FS-DevOps](https://github.com/fullstack-devops). In this organization I publish all my public and private projects.
 - 💬 Ask me about anything, I am happy to help.
 - 🚀 Support me through the github sponsoring project
-- 📫 How to reach me: eksrha@e-netsupport.de
+- 📫 How to reach me: eksrha@outlook.de
 
 **Languages and Tools:**  
 
