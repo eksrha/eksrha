@@ -2,40 +2,21 @@
 
 Hi, I'm Eike, a passionate self-taught Full Stack web developer and DevOps Engineer from Germany.
 
-- 🔭 I’m currently working on the [organisation FS-DevOps](https://github.com/fullstack-devops). In this organization I publish all my public and private projects.
-- 💬 Ask me about anything, I am happy to help.
+- 🔭 I’m currently working on interesting private projects and also on my FOSS organisation [fullstack-devops](https://github.com/fullstack-devops)
+- 💬 Ask me about anything, I am happy to help
 - 🚀 Support me through the github sponsoring project
 - 📫 How to reach me: eksrha@outlook.de
 
-**Languages and scripting**  
 
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/go/go.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/ansible/ansible.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=SONARLINT&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eksrha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eksrha&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eksrha&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Infrastructure and Databases**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eksrha&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/oracle-database/oracle-database.png"></code>
-
-**Tools**
-
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/actions/actions.png"></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>
-
-<!--
-📈 My GitHub Stats
-
-![Eksrha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksrha&show_icons=true&theme=gotham)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksrha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
+[![](https://visitcount.itsvg.in/api?id=eksrha&icon=0&color=0)](https://visitcount.itsvg.in)
